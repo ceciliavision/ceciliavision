@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there 👋
+
+- 💬 Ask me about building software and algorithms for computaitonal photography & machine learning for image processing and graphics.
+- 🤝 Know me better [here](http://eecs.berkeley.edu/~cecilia77).
 
 <!--
 **ceciliavision/ceciliavision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
