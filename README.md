@@ -3,7 +3,7 @@
 - 💬 Ask me about building algorithms for computaitonal photography & machine learning for image processing and graphics.
 - 💬 Ask me about the experience being a foreign student and completing a CS PhD.
 - 💬 Ask me about Beijing, Houston and the bay area.
-- 💬 Ask me about photography, coffee, Chinese food, Korean dramas and how it feels like being alergic to cats.
+- 💬 Ask me about [photography](https://www.flickr.com/photos/ceciliavision/albums), coffee, Chinese food, Korean dramas and how it feels like being alergic to cats.
 - 🤝 Know me better [here](http://eecs.berkeley.edu/~cecilia77).
 
 <!--
