@@ -4,7 +4,6 @@
 - 💬 Ask me about Beijing, Houston and the Bay Area.
 - 💬 Ask me about [photography](https://www.flickr.com/photos/ceciliavision/albums), coffee, movies (drama).
 - 🌱 Learning [digital painting](https://www.instagram.com/cecilia_with_pixels/).
-- 🤝 Know me better [here](http://eecs.berkeley.edu/~cecilia77).
 
 <!--
 **ceciliavision/ceciliavision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
