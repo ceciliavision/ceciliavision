@@ -1,8 +1,8 @@
 ### Hey there 👋
 
-- 💬 Ask me about algorithms for computaitonal photography & machine learning.
+- 💬 Ask me about computaitonal photography & machine learning.
 - 💬 Ask me about Beijing, Houston and the Bay Area.
-- 💬 Ask me about [photography](https://www.flickr.com/photos/ceciliavision/albums), coffee, movies (drama).
+- 💬 Ask me about [photography](https://www.flickr.com/photos/ceciliavision/albums), roadtrip, coffee and movies.
 - 🌱 Learning [digital painting](https://www.instagram.com/cecilia_with_pixels/).
 
 <!--
