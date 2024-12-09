@@ -1,9 +1,8 @@
 ### Hey there 👋
 
-- 💬 Ask me about computaitonal photography & machine learning.
-- 💬 Ask me about Beijing, Houston and the Bay Area.
+- 💬 Ask me about computaitonal photography and image editing.
+- 💬 Ask me about Beijing and the Bay Area.
 - 💬 Ask me about [photography](https://www.flickr.com/photos/ceciliavision/albums), roadtrip, coffee and movies.
-- 🌱 Learning [digital painting](https://www.instagram.com/cecilia_with_pixels/).
 
 <!--
 **ceciliavision/ceciliavision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
